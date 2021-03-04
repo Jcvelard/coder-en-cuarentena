@@ -1,0 +1,55 @@
+img{
+    text-align: center;
+    padding-left: 50%;
+    transform: rotate(25deg);
+
+}
+
+
+body{
+    background-image: linear-gradient(to left,red,yellow,green);
+}
+
+
+
+
+#ejercicio{
+    color: blanchedalmond;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 125px;
+    border-radius: 68%;
+    height: 250px;
+    width: 695px;
+    background-image: linear-gradient(to top left, blue,green,brown,red,black, orange, gray );
+}
+
+#gradiente-linear{
+    height: 250px;
+    width: 250px;
+    background-image: linear-gradient(blue,green);
+}
+#gradiente-linear2{
+    height: 250px;
+    width: 250px;
+    background-image: linear-gradient(to right, red,yellow)
+}
+#gradiente-linear3{
+    height: 250px;
+    width: 250px;
+    border-radius: 25%;
+    background-image: linear-gradient(to bottom right, purple,orange )
+}
+
+#gradiente-linear4{
+        height: 250px;
+        width: 250px;
+        border-radius: 25%;
+        background-image: linear-gradient(185deg, purple, yellow)
+}
+#gradiente-linear5{
+    height: 250px;
+    width: 250px;
+    border-radius: 25%;
+    background-image: linear-gradient(to bottom right, purple,orange )
+

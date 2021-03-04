@@ -1,0 +1,33 @@
+#nombre {
+    color: steelblue;
+}
+
+#Color1 {
+    color: teal;
+}
+
+#Color2 {
+    color: brown;
+}
+#Color3 {
+    color: cadetblue;
+}
+#Color4 {
+    color: darkblue;
+}
+#Color5 {
+    color: darkgreen;
+}
+#cancion {
+    font-family: 'Roboto Mono', monospace;
+}
+
+#id1{
+    font-family: 'Roboto Mono', monospace;
+}
+#id3{
+    font-family: 'Roboto Mono', monospace;
+}
+.contenedor{
+    display: inline-flex;
+}

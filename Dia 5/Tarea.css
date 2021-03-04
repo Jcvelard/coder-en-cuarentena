@@ -1,13 +1,36 @@
 header {
     background-color: snow;
-    }
+    text-align: center;    
+}
+    
 .foto1 {
     text-align: center;  
+
 }
 
+nav {
+    display: block;
+    font-size: 25px;
+    background-color: black;
+    padding: 20px;
+    font: bold;
+}
 
-        
-      }
+a{
+    color: white;
+}
+a:hover:not(.active) {
+    background-color: #4CAF50;
+  }
+  .active {
+    background-color: #4CAF50;
+  }
+
+
+main{
+    text-align: center;
+}
+      
 body {
     background-color: sandybrown;
 }

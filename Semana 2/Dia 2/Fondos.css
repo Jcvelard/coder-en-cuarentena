@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/978/936/941/band-music-daft-punk-hd-wallpaper-preview.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+#Cabecera{
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 250px;
+    text-align: center;
+    color: white;
+
+}
+
+#imagen{
+        text-align: center;
+    
+}
+
+#footer{
+        text-align: center;
+}

@@ -1,0 +1,24 @@
+#header1 {
+    border-style: double dashed dashed dotted;
+    text-align: center;
+}
+
+#borde1 {
+    border-style: inset;
+    text-align: center;
+}
+
+#borde2 {
+    border-style: double ;
+    text-align: center;    
+}
+
+#borde3{
+    border-style: solid;
+    text-align: center;
+}
+
+#borde4{
+    border-style: dotted double dotted double;
+    text-align: center;
+}
