@@ -1,0 +1,21 @@
+#caja1 {
+    width: 45%;
+    height: 500px;
+    background-color: thistle;
+    border: 20px solid green;
+    display: inline-flex;margin: 20px;
+}
+#caja2 {
+    display: inline-flex;
+    width: 45%;
+    height: 500px;
+    background-color: tomato;
+    display: inline-flex;
+    border: 20px solid green;
+    margin: 20px;
+}
+
+#body {
+    display: inline flex;
+    
+}

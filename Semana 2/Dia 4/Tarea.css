@@ -1,0 +1,27 @@
+#main {
+    margin: auto;
+    width: 400px;
+    background-color: cornflowerblue;
+    border: 3px solid green ;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    width: 310px;
+    height: 100px;
+    border: 6px outset ;
+}
+
+#parrafo{
+    text-align: center;
+    width: 300px;
+    background-color: grey;
+    height: 150px;
+    overflow: auto;
+    margin: 20px;
+    padding-left: 10px;
+    padding-right: 5px;
+    border: 6px dotted black;
+
+}
