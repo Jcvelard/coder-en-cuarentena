@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 html {
-  background: url("./assets/images/fondo.jpg") no-repeat center center fixed;
+  background: url(https://media.istockphoto.com/vectors/seamless-kitchen-background-of-vegetables-beautiful-background-vector-vector-id503137921) no-repeat center center fixed;
   background-size: cover;
 }
 header {
@@ -53,6 +53,7 @@ button {
   margin-top: 100px;
   width: 200px;
   border: 5px solid white;
+  background-color: ;
 }
 #waves {
   width: 100%;
@@ -71,14 +72,20 @@ footer {
 #sub-footer-1 {
   margin: 10px;
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  flex-direction: row;
+  height: 150px;
+  width: 100%;
+  margin-bottom: 10px;
+  justify-content: space-around;
+  padding-top: 50px;
+
+  
 }
 #sub-footer-2 {
-  margin: 10px;
+  margin: 10;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+
 }
 #sub-footer-3 {
   margin: 10px;
@@ -102,7 +109,7 @@ footer {
 #nombre {
   font-family: "Poppins", sans-serif;
  margin-bottom: 30px;
-  color: white;
+  color: black;
   font-size: xxx-large;
 }
 .texto-footer{
@@ -113,14 +120,25 @@ color: white;
   color: white;
 }
 
-@media only screen and (max-width: 600px) {
-  header {
+@media only screen and (min-width: 768px) {
+  #foto{
+    width: 150px;
+  }
+  #nombre{
+    font-family: cursive;
+    margin: 50px;
+    background: ;
+  }
+  html{
+    background: url(https://lavienutritive.com/wp-content/uploads/2020/10/FOTO-2-1-711x1024.jpg);
+  }
+  header{
     background-color: black;
   }
+  
+  
 
-@media only screen and (min-width:600px){
-    body{
-        background-image: url(https://media.istockphoto.com/vectors/seamless-kitchen-background-of-vegetables-beautiful-background-vector-vector-id503137921);
-    }
 
-    
+
+
+
