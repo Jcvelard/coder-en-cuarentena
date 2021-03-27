@@ -1,3 +1,4 @@
+var select;
 switch (cancion) {
     case "firstday":
         nombre.textContent = "titulo firstday"
@@ -17,4 +18,8 @@ switch (cancion) {
     default:
       console.log("Ups! , no hay cancion!");
   }
+
+
+
+
   
